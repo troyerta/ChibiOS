@@ -14,6 +14,8 @@
     limitations under the License.
 */
 
+#include "stm32_registry.h"
+
 /**
  * @file    STM32F4xx/stm32_rcc.h
  * @brief   RCC helper driver header.
